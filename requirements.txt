@@ -67,13 +67,11 @@ validators
 vcsi
 wand
 wget
-https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
+yt-dlp @ git+https://github.com/HellBoy-OP/yt-dp-fork.git@af1fd12f675220df6793fc019dff320bc76e8080
 youtube-search
 youtube-search-python
 fake_useragent
 faker
 htmlwebshot
-
-
 git+https://github.com/Jisan09/Telethon
 git+https://github.com/goldsmith/Wikipedia
