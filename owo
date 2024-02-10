@@ -15,7 +15,7 @@ _get_zlink () {
         then
             echo "${UPSTREAM_REPO}/archive/${UPSTREAM_REPO_BRANCH}.zip"
         else
-            echo "${UPSTREAM_REPO}/archive/master.zip"
+            echo "${UPSTREAM_REPO}/archive/cat.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RnQ2F0VUIvY2F0dXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
